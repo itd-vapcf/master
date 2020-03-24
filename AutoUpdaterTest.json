@@ -1,0 +1,9 @@
+{ 
+   "CurrentVersion":"2020.03.24.1",
+   "DownloadURL":"ftp://14.248.82.141/v2.0.0.0.zip",
+   "ChangelogURL":"https://github.com/duong-richard/itd-vapcf/releases",
+   "Mandatory":{ 
+      "Value":true,
+      "UpdateMode":1
+   }
+}
